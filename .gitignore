@@ -102,3 +102,11 @@ dist
 
 # TernJS port file
 .tern-port
+
+# exercism files
+HELP.md
+.exercism
+.eslintrc
+.npmrc
+babel.config.js
+package.json
